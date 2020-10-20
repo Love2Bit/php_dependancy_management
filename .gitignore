@@ -1,1 +1,5 @@
 phpmailer/config_api.php
+composer/vendor
+introduce_composer/vendor
+phpmailer/vendor
+practice/autoload/vendor

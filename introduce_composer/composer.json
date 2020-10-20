@@ -1,0 +1,15 @@
+{
+    "name": "justao/introduce_composer",
+    "description": "latihan",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "JustAo",
+            "email": "aodellas1434@gmail.com"
+        }
+    ]
+}

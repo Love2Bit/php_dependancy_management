@@ -1,0 +1,6 @@
+{
+    "require": {},
+    "autoload": {
+        "files": ["app/Magang.php"]
+    }
+}
